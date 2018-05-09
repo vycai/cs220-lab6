@@ -1,0 +1,3 @@
+language: c
+script: 
+  - make -C lab6/hello clean all
