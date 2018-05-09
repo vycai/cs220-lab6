@@ -1,3 +1,4 @@
 language: c
 script: 
-  - make -C /hello clean all
+  - cd hello
+  - make -C clean all
