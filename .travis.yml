@@ -1,3 +1,3 @@
 language: c
 script: 
-  - make -C cs220-lab6/hello clean all
+  - make -C /hello clean all
